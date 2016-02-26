@@ -1,0 +1,12 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex1.js",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "moment": "^2.11.2",
+    "through2-map": "^2.0.0"
+  },
+  "devDependencies": {}
+}
