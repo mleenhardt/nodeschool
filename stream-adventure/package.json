@@ -1,0 +1,20 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "Fun exercises from http://nodeschool.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mleenhardt/stream-adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mleenhardt/stream-adventure/issues"
+  },
+  "homepage": "https://github.com/mleenhardt/stream-adventure#readme",
+  "dependencies": {
+    "concat-stream": "^1.5.1",
+    "split": "^1.0.0",
+    "through2": "^2.0.1"
+  }
+}
