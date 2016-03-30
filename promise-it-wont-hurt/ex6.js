@@ -1,0 +1,1 @@
+Promise.reject(new Error('Some error')).catch(e => console.log(e.message));

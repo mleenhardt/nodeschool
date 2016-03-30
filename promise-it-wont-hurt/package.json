@@ -1,0 +1,15 @@
+{
+  "name": "promise-it-wont-hurt",
+  "version": "1.0.0",
+  "description": "Fun exercises from http://nodeschool.io/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mleenhardt/nodeschool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mleenhardt/nodeschool/issues"
+  },
+  "homepage": "https://github.com/mleenhardt/nodeschool#readme"
+}

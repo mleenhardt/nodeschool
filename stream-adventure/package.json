@@ -4,14 +4,14 @@
   "description": "Fun exercises from http://nodeschool.io/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mleenhardt/stream-adventure.git"
+    "url": "git+https://github.com/mleenhardt/nodeschool.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mleenhardt/stream-adventure/issues"
+    "url": "https://github.com/mleenhardt/nodeschool/issues"
   },
-  "homepage": "https://github.com/mleenhardt/stream-adventure#readme",
+  "homepage": "https://github.com/mleenhardt/nodeschool#readme",
   "dependencies": {
     "concat-stream": "^1.5.1",
     "duplexer2": "^0.1.4",
